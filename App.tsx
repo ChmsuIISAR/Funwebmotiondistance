@@ -80,7 +80,7 @@ const App: React.FC = () => {
              <MapPin className="text-slate-900" size={20} />
           </div>
           <div>
-              <h1 className={`text-lg font-extrabold tracking-tight leading-tight ${isDarkMode ? 'text-white' : 'text-slate-900'}`}>Physics Lab</h1>
+              <h1 className={`text-lg font-extrabold tracking-tight leading-tight ${isDarkMode ? 'text-white' : 'text-slate-900'}`}>FunWeb</h1>
               <p className="text-[9px] text-slate-400 font-semibold uppercase tracking-widest">Forces & Motion • Grade 7</p>
           </div>
         </div>
