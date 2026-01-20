@@ -418,8 +418,8 @@ const App: React.FC = () => {
       
       {/* FOOTER - Increased Height (h-[52px]) */}
       <footer className={`h-[52px] border-t flex items-center justify-between px-6 text-[10px] z-50 transition-colors duration-300 ${isDarkMode ? 'bg-slate-900 border-slate-800 text-slate-500' : 'bg-white border-slate-200 text-slate-400'}`}>
-        <span>Grade 7 Science • Forces and Motion</span>
-        <span>© 2024 Physics Lab</span>
+        <span>Grade 7 Science Physics</span>
+        <span>© 2026 Physics Lab</span>
       </footer>
 
       {/* Results Popup */}
