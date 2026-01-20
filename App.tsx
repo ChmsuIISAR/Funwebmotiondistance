@@ -81,7 +81,7 @@ const App: React.FC = () => {
           </div>
           <div>
               <h1 className={`text-lg font-extrabold tracking-tight leading-tight ${isDarkMode ? 'text-white' : 'text-slate-900'}`}>FunWeb</h1>
-              <p className="text-[9px] text-slate-400 font-semibold uppercase tracking-widest">G7 MOTION
+              <p className="text-[9px] text-slate-400 font-semibold uppercase tracking-widest">G7 MOTION: SPEED, VELOCITY, DISTANCE AND DISPLACEMENT
               </p>
           </div>
         </div>
